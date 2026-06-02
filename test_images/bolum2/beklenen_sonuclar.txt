@@ -1,0 +1,13 @@
+# Beklenen Sonuclar (Dogrulama icin)
+# Cevap Anahtari: ['B', 'C', 'E', 'B', 'D', 'C', 'C', 'E', 'C', 'D', 'C', 'C', 'D', 'E', 'D', 'A', 'C', 'B', 'B', 'A']
+
+Ogrenci: 685596590 | Dogru:  4 | Yanlis: 15 | Bos:  1
+Ogrenci: 728397781 | Dogru:  4 | Yanlis: 16 | Bos:  0
+Ogrenci: 733880526 | Dogru:  4 | Yanlis: 14 | Bos:  2
+Ogrenci: 703713938 | Dogru:  5 | Yanlis: 12 | Bos:  3
+Ogrenci: 879719839 | Dogru:  4 | Yanlis: 13 | Bos:  3
+Ogrenci: 963202591 | Dogru:  5 | Yanlis: 15 | Bos:  0
+Ogrenci: 720738948 | Dogru:  7 | Yanlis: 10 | Bos:  3
+Ogrenci: 513884033 | Dogru:  6 | Yanlis: 14 | Bos:  0
+Ogrenci: 761769035 | Dogru:  6 | Yanlis: 12 | Bos:  2
+Ogrenci: 181396795 | Dogru:  3 | Yanlis: 15 | Bos:  2
